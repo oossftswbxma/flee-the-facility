@@ -19,6 +19,8 @@ Key highlights include:
 - ❄️ **Freeze Evade** — detects the beast's freeze attack and teleports out of range instantly
 - 🏆 **Win Streak Farm** — completes escapes on loop as survivor for maximum badge and gem rewards
 
+### [⬇️ Download Flee the Facility Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
